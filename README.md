@@ -9,7 +9,7 @@ Task Description : We want to develop a simple one page expense tracker web app 
 5. User should see the list of all added transactions.
 6. User can delete a transaction and as per the transaction type (credit/debit) the balance should be adjusted
 
-After Download the file you have to stay in the project directory and hit the ``python manage.py migrate`` command, then hit ``python manage.py runserver`` to run the local server and you will get a link ``http://127.0.0.1:8000/`` click on that to get the home page.
+After Download the file you have to stay in the project directory and hit the ``python manage.py migrate`` command, then hit                ``python manage.py runserver`` to run the local server and you will get a link ``http://127.0.0.1:8000/`` click on that to get the home page.
 
 
 
